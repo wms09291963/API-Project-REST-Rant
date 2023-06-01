@@ -65,8 +65,5 @@ TBD
 
 ## Notes
 
-Possible bonus ideas:
+* Cat pictures used as placeholders for restaurant pics
 
-* Update for comments
-* Aggregate rating for a place
-* Auto-complete state dropdown
