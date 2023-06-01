@@ -1,6 +1,8 @@
 # Project REST-Rant
 
-TBD - SUMMARY
+SUMMARY
+
+This is an app where users can rant or rave about specific restaurants. It has full CRUD (create, read, update, delete) capability. 
 
 ## Tech Usage
 
