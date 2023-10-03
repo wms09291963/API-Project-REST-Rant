@@ -28,10 +28,10 @@ function Def () {
                         </li>
                     </ul>
                 </nav>
-                <div id="root"></div> <!-- Render React app here -->
+                <div id="root"></div> 
                 {html.children}
             </body>
-            <script src="/js/main.js"></script> <!-- Include your React bundle -->
+            <script src="/js/main.js"></script> 
         </html>
         );
 }
