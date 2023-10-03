@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/HackerUSA-CE/project-REST-rant/issues"
   },
-  "homepage": "https://github.com/HackerUSA-CE/project-REST-rant#readme",
+  "homepage": "https://github.com/wms09291963/api-project-rest-rant/blob/master/views/home.jsx",
   "dependencies": {
     "dotenv": "^8.6.0",
     "express": "^4.17.1",
