@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.js', // Replace with the path to your React entry file
+  entry: './index.js',  // Replace with the path to your React entry file
   output: {
     path: path.resolve(__dirname, 'public/js'), // Replace with the desired output directory
     filename: 'bundle.js',
